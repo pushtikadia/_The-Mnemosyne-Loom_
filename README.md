@@ -84,8 +84,8 @@ This project is open-source and available under the [MIT License](LICENSE).
   <b> The Mnemosyne Loom </b> • Forging Thought into Matter
 </p>
 
----
+
 
 <p align="center">
-  <b>The Mnemosyne Loom</b> • Created by <a href="https://github.com/pushtikadia"><b>Pushti Kadia</b></a>
+ • Created by <a href="https://github.com/pushtikadia"><b>Pushti Kadia</b></a>
 </p>
