@@ -87,5 +87,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 
 <p align="center">
- • Created by <a href="https://github.com/pushtikadia"><b>Pushti Kadia</b></a>
+  Created by <a href="https://github.com/pushtikadia"><b>Pushti Kadia</b></a>
 </p>
