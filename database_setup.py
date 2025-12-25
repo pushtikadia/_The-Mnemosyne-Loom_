@@ -34,4 +34,7 @@ def init_db():
     print("✓ System Initialized: 'synapse.db' created successfully.")
 
 if __name__ == '__main__':
+
     init_db()
+
+
